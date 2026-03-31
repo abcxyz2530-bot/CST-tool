@@ -1,0 +1,5 @@
+{
+  "name": "Data Visualizer for NA data",
+  "description": "An interactive web application that allows users to upload a CSV file and visualize its data in a line chart. The first row of the CSV is used for X-axis labels, and subsequent rows represent different data series.",
+  "requestFramePermissions": []
+}
